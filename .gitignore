@@ -1,5 +1,5 @@
 *.class
 *.log
-*.metals
-target
-*.class
+**/*.metals
+**/target
+.vscode
